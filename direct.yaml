@@ -89,6 +89,7 @@ payload:
   -  DOMAIN-SUFFIX,net.cn
   -  DOMAIN-SUFFIX,163.com
   -  DOMAIN-SUFFIX,126.net
+  -  DOMAIN-SUFFIX,jdpay.com
   -  DOMAIN-SUFFIX,advlion.com
   -  DOMAIN-SUFFIX,myhuaweicloud.com
   -  DOMAIN-SUFFIX,pglstatp-toutiao.com
