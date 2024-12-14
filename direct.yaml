@@ -1,4 +1,7 @@
 payload:
+  -  DOMAIN-SUFFIX,apple.com
+  -  DOMAIN-SUFFIX,icloud.com
+  -  DOMAIN-SUFFIX,mzstatic.com
   -  DOMAIN-SUFFIX,alicdn.com
   -  DOMAIN-SUFFIX,aliyundrive.com
   -  DOMAIN-SUFFIX,alipayobjects.com
@@ -25,6 +28,10 @@ payload:
   -  DOMAIN-SUFFIX,niu.com
   -  DOMAIN-SUFFIX,netease.com
   -  DOMAIN-SUFFIX,ke.com
+  -  DOMAIN-SUFFIX,bytetos.com
+  -  DOMAIN-SUFFIX,byteimg.com
+  -  DOMAIN-SUFFIX,ecombdpage.com
+  -  DOMAIN-SUFFIX,autonavi.com
   -  DOMAIN-SUFFIX,qlogo.cn
   -  DOMAIN-SUFFIX,qq.com.cn
   -  DOMAIN-SUFFIX,niucache.com
@@ -37,6 +44,7 @@ payload:
   -  DOMAIN-SUFFIX,doubanio.com
   -  DOMAIN-SUFFIX,umeng.com
   -  DOMAIN-SUFFIX,mi.com
+  -  DOMAIN-SUFFIX,shuzilm.cn
   -  DOMAIN-SUFFIX,tencent-cloud.net
   -  DOMAIN-SUFFIX,tencent-cloud.com
   -  DOMAIN-SUFFIX,mijia.tech
@@ -83,6 +91,7 @@ payload:
   -  DOMAIN-SUFFIX,ucweb.com
   -  DOMAIN-SUFFIX,alibabachengdun.com
   -  DOMAIN-SUFFIX,uc.cn
+  -  DOMAIN-SUFFIX,myqcloud.com
   -  DOMAIN-SUFFIX,aliapp.org
   -  DOMAIN-SUFFIX,tmall.com
   -  DOMAIN-SUFFIX,csdn.net
@@ -90,8 +99,15 @@ payload:
   -  DOMAIN-SUFFIX,net.cn
   -  DOMAIN-SUFFIX,163.com
   -  DOMAIN-SUFFIX,126.net
+  -  DOMAIN-SUFFIX,ecombdapi.com
+  -  DOMAIN-SUFFIX,pstatp.com
   -  DOMAIN-SUFFIX,jdpay.com
+  -  DOMAIN-SUFFIX,ietheivaicai.com
+  -  DOMAIN-SUFFIX,toutiaoimg.com
+  -  DOMAIN-SUFFIX,bytegecko.com
+  -  DOMAIN-SUFFIX,toutiaostatic.com
   -  DOMAIN-SUFFIX,advlion.com
+  -  DOMAIN-SUFFIX,bytedance.com
   -  DOMAIN-SUFFIX,myhuaweicloud.com
   -  DOMAIN-SUFFIX,pglstatp-toutiao.com
   -  DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
