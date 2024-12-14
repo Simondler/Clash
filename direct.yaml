@@ -26,6 +26,7 @@ payload:
   -  DOMAIN-SUFFIX,lianjia.com
   -  DOMAIN-SUFFIX,qpic.cn
   -  DOMAIN-SUFFIX,niu.com
+  -  DOMAIN-SUFFIX,boc.cn
   -  DOMAIN-SUFFIX,netease.com
   -  DOMAIN-SUFFIX,ke.com
   -  DOMAIN-SUFFIX,bytetos.com
