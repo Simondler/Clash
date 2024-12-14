@@ -19,6 +19,8 @@ payload:
   -  DOMAIN-SUFFIX,feishu.cn
   -  DOMAIN-SUFFIX,taobao.com
   -  DOMAIN-SUFFIX,jd.com
+  -  DOMAIN-SUFFIX,95508.com
+  -  DOMAIN-SUFFIX,com.cn
   -  DOMAIN-SUFFIX,zhihu.com
   -  DOMAIN-SUFFIX,xiaomi.com
   -  DOMAIN-SUFFIX,qq.com
