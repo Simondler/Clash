@@ -28,6 +28,9 @@ payload:
   -  DOMAIN-SUFFIX,niu.com
   -  DOMAIN-SUFFIX,netease.com
   -  DOMAIN-SUFFIX,ke.com
+  -  DOMAIN-SUFFIX,bytetos.com
+  -  DOMAIN-SUFFIX,byteimg.com
+  -  DOMAIN-SUFFIX,ecombdpage.com
   -  DOMAIN-SUFFIX,autonavi.com
   -  DOMAIN-SUFFIX,qlogo.cn
   -  DOMAIN-SUFFIX,qq.com.cn
