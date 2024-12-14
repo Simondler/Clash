@@ -98,6 +98,8 @@ payload:
   -  DOMAIN-SUFFIX,net.cn
   -  DOMAIN-SUFFIX,163.com
   -  DOMAIN-SUFFIX,126.net
+  -  DOMAIN-SUFFIX,ecombdapi.com
+  -  DOMAIN-SUFFIX,pstatp.com
   -  DOMAIN-SUFFIX,jdpay.com
   -  DOMAIN-SUFFIX,toutiaoimg.com
   -  DOMAIN-SUFFIX,bytegecko.com
