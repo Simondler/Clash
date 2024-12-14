@@ -82,7 +82,7 @@ payload:
   -  DOMAIN-SUFFIX,qcloud.com
   -  DOMAIN-SUFFIX,sobot.com
   -  DOMAIN-SUFFIX,weibo.com
-  -  DOMAIN-SUFFIX,creditcard.cmbc.cn
+  -  DOMAIN-SUFFIX,cmbc.com.cn
   -  DOMAIN-SUFFIX,easytomessage.com
   -  DOMAIN-SUFFIX,douyinstatic.com
   -  DOMAIN-SUFFIX,douyincdn.com
