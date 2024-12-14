@@ -26,6 +26,7 @@ payload:
   -  DOMAIN-SUFFIX,lianjia.com
   -  DOMAIN-SUFFIX,qpic.cn
   -  DOMAIN-SUFFIX,niu.com
+  -  DOMAIN-SUFFIX,telemetrydeck.com
   -  DOMAIN-SUFFIX,netease.com
   -  DOMAIN-SUFFIX,ke.com
   -  DOMAIN-SUFFIX,autonavi.com
