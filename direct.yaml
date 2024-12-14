@@ -91,6 +91,7 @@ payload:
   -  DOMAIN-SUFFIX,ucweb.com
   -  DOMAIN-SUFFIX,alibabachengdun.com
   -  DOMAIN-SUFFIX,uc.cn
+  -  DOMAIN-SUFFIX,myqcloud.com
   -  DOMAIN-SUFFIX,aliapp.org
   -  DOMAIN-SUFFIX,tmall.com
   -  DOMAIN-SUFFIX,csdn.net
