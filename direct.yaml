@@ -41,6 +41,7 @@ payload:
   -  DOMAIN-SUFFIX,bytemaimg.com  
   -  DOMAIN-SUFFIX,bytescm.com  
   -  DOMAIN-SUFFIX,bytetos.com  
+  -  DOMAIN-SUFFIX,bdxiguaimg.com
   -  DOMAIN-SUFFIX,ccb.com  
   -  DOMAIN-SUFFIX,chiphell.com  
   -  DOMAIN-SUFFIX,csdn.net  
@@ -91,6 +92,7 @@ payload:
   -  DOMAIN-SUFFIX,msstatic.com  
   -  DOMAIN-SUFFIX,myhuaweicloud.com  
   -  DOMAIN-SUFFIX,myqcloud.com  
+  -  DOMAIN-SUFFIX,nodeseek.com
   -  DOMAIN-SUFFIX,netease.com  
   -  DOMAIN-SUFFIX,niu.com  
   -  DOMAIN-SUFFIX,niucache.com  
