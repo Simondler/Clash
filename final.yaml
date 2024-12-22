@@ -42,6 +42,7 @@ payload:
   -  DOMAIN-SUFFIX,facebook.net
   -  DOMAIN-SUFFIX,fbcdn.net  
   -  DOMAIN-SUFFIX,forter.com  
+  -  DOMAIN-SUFFIX,gstatic.com
   -  DOMAIN-SUFFIX,gateway.feignapi  
   -  DOMAIN-SUFFIX,ggpht.com  
   -  DOMAIN-SUFFIX,gmail.com  
@@ -69,8 +70,10 @@ payload:
   -  DOMAIN-SUFFIX,linecorp.com  
   -  DOMAIN-SUFFIX,me.com 
   -  DOMAIN-SUFFIX,missav.com
+  -  DOMAIN-SUFFIX,mypikpak.com
   -  DOMAIN-SUFFIX,missav.recombee.com
   -  DOMAIN-SUFFIX,netflav.com
+  -  DOMAIN-SUFFIX,nodeseek.com
   -  DOMAIN-SUFFIX,pornhub.com
   -  DOMAIN-SUFFIX,openai.com 
   -  DOMAIN-SUFFIX,paypal.com  
@@ -78,6 +81,7 @@ payload:
   -  DOMAIN-SUFFIX,pinimg.com  
   -  DOMAIN-SUFFIX,pinterest.com  
   -  DOMAIN-SUFFIX,pornhub.com  
+  -  DOMAIN-SUFFIX,split.io
   -  DOMAIN-SUFFIX,saasexch.io  
   -  DOMAIN-SUFFIX,segment.io  
   -  DOMAIN-SUFFIX,snapkit.com  
@@ -87,20 +91,26 @@ payload:
   -  DOMAIN-SUFFIX,t.co  
   -  DOMAIN-SUFFIX,t.me  
   -  DOMAIN-SUFFIX,t66y.com
+  -  DOMAIN-SUFFIX,tiktokcdn.com
+  -  DOMAIN-SUFFIX,tiktokv.us
+  -  DOMAIN-SUFFIX,tiktokcdn-us.com
   -  DOMAIN-SUFFIX,telegram.org
   -  DOMAIN-SUFFIX,telemetrydeck.com  
   -  DOMAIN-SUFFIX,twimg.com  
   -  DOMAIN-SUFFIX,twitter.com  
   -  DOMAIN-SUFFIX,theporndude.com
   -  DOMAIN-SUFFIX,v2ex.com  
+  -  DOMAIN-SUFFIX,withgoogle.com
+  -  DOMAIN-SUFFIX,x.com
   -  DOMAIN-SUFFIX,xvideos.com
   -  DOMAIN-SUFFIX,xvideos-cdn.com
   -  DOMAIN-SUFFIX,xhamster.com
+  -  DOMAIN-SUFFIX,ytimg.com
   -  DOMAIN-SUFFIX,youtube.com 
   -  DOMAIN-SUFFIX,youjizz.com 
-  -  IP-CIDR,91.108.56.0/24,no-resolve
   -  IP-CIDR,95.161.76.101/32,no-resolve
   -  IP-CIDR,149.154.165.111/32,no-resolve
+  -  IP-CIDR,91.108.56.0/24,no-resolve
   -  IP-CIDR,149.154.167.0/24,no-resolve
   -  IP-CIDR,149.154.171.0/24,no-resolve
   -  IP-CIDR,149.154.175.0/24,no-resolve
