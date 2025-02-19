@@ -9,6 +9,7 @@ payload:
   -  DOMAIN-SUFFIX,advlion.com  
   -  DOMAIN-SUFFIX,alibaba-inc.com  
   -  DOMAIN-SUFFIX,alibaba.com  
+  -  DOMAIN-SUFFIX,alibabacloud.com
   -  DOMAIN-SUFFIX,alibabachengdun.com  
   -  DOMAIN-SUFFIX,alibabausercontent.com  
   -  DOMAIN-SUFFIX,alicdn.com  
@@ -22,9 +23,12 @@ payload:
   -  DOMAIN-SUFFIX,aliyundrive.net  
   -  DOMAIN-SUFFIX,amap.com  
   -  DOMAIN-SUFFIX,amemv.com  
+  -  DOMAIN-SUFFIX,anythinktech.com
   -  DOMAIN-SUFFIX,app-analytics-services.com  
   -  DOMAIN-SUFFIX,autonavi.com  
   -  DOMAIN-SUFFIX,baidu.com  
+  -  DOMAIN-SUFFIX,bdimg.com
+  -  DOMAIN-SUFFIX,bdstatic.com
   -  DOMAIN-SUFFIX,baike.com  
   -  DOMAIN-SUFFIX,bdurl.net  
   -  DOMAIN-SUFFIX,bdxiguastatic.com  
@@ -64,11 +68,15 @@ payload:
   -  DOMAIN-SUFFIX,ecombdapi.com  
   -  DOMAIN-SUFFIX,ecombdimg.com  
   -  DOMAIN-SUFFIX,ecombdpage.com  
+  -  DOMAIN-SUFFIX,feng.com
   -  DOMAIN-SUFFIX,gtimg.com
+  -  DOMAIN-SUFFIX,gepush.com
   -  DOMAIN-SUFFIX,goofish.com  
+  -  DOMAIN-SUFFIX,gdtimg.com
   -  DOMAIN-SUFFIX,hdslb.com  
   -  DOMAIN-SUFFIX,hpplay.com  
   -  DOMAIN-SUFFIX,huya.com  
+  -  DOMAIN-SUFFIX,ip138.com
   -  DOMAIN-SUFFIX,ibytedapm.com  
   -  DOMAIN-SUFFIX,ietheivaicai.com  
   -  DOMAIN-SUFFIX,ixigua.com  
@@ -97,6 +105,7 @@ payload:
   -  DOMAIN-SUFFIX,niucache.com  
   -  DOMAIN-SUFFIX,pupumall.com
   -  DOMAIN-SUFFIX,pupuapi.com
+  -  DOMAIN-SUFFIX,onethingpcs.com
   -  DOMAIN-SUFFIX,open-douyin.com  
   -  DOMAIN-SUFFIX,openinstall.io  
   -  DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com  
@@ -110,10 +119,13 @@ payload:
   -  DOMAIN-SUFFIX,pstatp.com  
   -  DOMAIN-SUFFIX,qcloud.com  
   -  DOMAIN-SUFFIX,qq.com  
+  -  DOMAIN-SUFFIX,pcbeta.com
   -  DOMAIN-SUFFIX,qiyukf.com
+  -  DOMAIN-SUFFIX,qidian.com
   -  DOMAIN-SUFFIX,qishui.com  
-  -  DOMAIN-SUFFIX,rust.ilmz.net
+  -  DOMAIN,rust.ilmz.net
   -  DOMAIN-SUFFIX,realsee.com
+  -  DOMAIN-SUFFIX,routerlogin.net
   -  DOMAIN-SUFFIX,snssdk.com  
   -  DOMAIN-SUFFIX,sobot.com  
   -  DOMAIN-SUFFIX,sspai.com
@@ -140,11 +152,19 @@ payload:
   -  DOMAIN-SUFFIX,weibocdn.com  
   -  DOMAIN-SUFFIX,weixinbridge.com
   -  DOMAIN-SUFFIX,xiaomiyoupin.com  
-  -  DOMAIN-SUFFIX,ximalaya.com  
-  -  DOMAIN-SUFFIX,ximalaya.com  
-  -  DOMAIN-SUFFIX,ximalaya.com  
-  -  DOMAIN-SUFFIX,ximalaya.com  
+  -  DOMAIN-SUFFIX,ximalaya.com 
   -  DOMAIN-SUFFIX,xiaomi.com  
   -  DOMAIN-SUFFIX,xiaomi.net  
   -  DOMAIN-SUFFIX,xmcdn.com  
+  -  DOMAIN-SUFFIX,xhey.top
+  -  DOMAIN-SUFFIX,xycdn.com
+  -  DOMAIN-SUFFIX,xiaohongshu.com
+  -  DOMAIN-SUFFIX,ydstatic.com  
+  -  DOMAIN-SUFFIX,youdao.com  
+  -  DOMAIN-SUFFIX,youku.com  
+  -  DOMAIN-SUFFIX,youzanyun.com
+  -  DOMAIN-SUFFIX,zto.com
+  -  DOMAIN-SUFFIX,zhihu.com 
+  -  DOMAIN-SUFFIX,zhimg.com
   -  DOMAIN-SUFFIX,zijieapi.com
+  -  IP-CIDR,120.77.201.47/32
