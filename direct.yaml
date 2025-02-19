@@ -147,9 +147,4 @@ payload:
   -  DOMAIN-SUFFIX,xiaomi.com  
   -  DOMAIN-SUFFIX,xiaomi.net  
   -  DOMAIN-SUFFIX,xmcdn.com  
-  -  DOMAIN-SUFFIX,ydstatic.com  
-  -  DOMAIN-SUFFIX,youdao.com  
-  -  DOMAIN-SUFFIX,youku.com  
-  -  DOMAIN-SUFFIX,youzanyun.com
-  -  DOMAIN-SUFFIX,zhihu.com 
   -  DOMAIN-SUFFIX,zijieapi.com
