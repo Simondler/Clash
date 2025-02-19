@@ -22,13 +22,15 @@ payload:
   -  DOMAIN-SUFFIX,cloudflare.com  
   -  DOMAIN-SUFFIX,cloudfront.net
   -  DOMAIN-SUFFIX,cloudflare-dns.com
-  -  DOMAIN-SUFFIX,digicert.com  
-  -  DOMAIN-SUFFIX,emby.ilmz.net  
+  -  DOMAIN-SUFFIX,deepseek.com
+  -  DOMAIN-SUFFIX,digicert.com
+  -  DOMAIN-SUFFIX,deepl.com
   -  DOMAIN-SUFFIX,emby.wtf  
   -  DOMAIN-SUFFIX,facebook.com  
   -  DOMAIN-SUFFIX,facebook.net
   -  DOMAIN-SUFFIX,fbcdn.net  
   -  DOMAIN-SUFFIX,forter.com  
+  -  DOMAIN-SUFFIX,gvnumber.com
   -  DOMAIN-SUFFIX,gstatic.com
   -  DOMAIN-SUFFIX,gateway.feignapi  
   -  DOMAIN-SUFFIX,ggpht.com  
@@ -45,17 +47,21 @@ payload:
   -  DOMAIN-SUFFIX,himalaya.com  
   -  DOMAIN-SUFFIX,honey.io  
   -  DOMAIN-SUFFIX,hsex.men
+  -  DOMAIN-SUFFIX,hcfy.ai
   -  DOMAIN-SUFFIX,i.ytimg.com  
   -  DOMAIN-SUFFIX,instagram.com  
   -  DOMAIN-SUFFIX,instabug.com  
   -  DOMAIN-SUFFIX,iterable.com 
   -  DOMAIN-SUFFIX,javdb.com 
+  -  DOMAIN-SUFFIX,javcdn.cc
   -  DOMAIN-SUFFIX,javbus.com
   -  DOMAIN-SUFFIX,javbus22
+  -  DOMAIN-SUFFIX,linux.do
   -  DOMAIN-SUFFIX,line-apps.com  
   -  DOMAIN-SUFFIX,line-scdn.net  
   -  DOMAIN-SUFFIX,linecorp.com  
-  -  DOMAIN-SUFFIX,me.com 
+  -  DOMAIN-SUFFIX,microsoft.com
+  -  DOMAIN-SUFFIX,missav.ai
   -  DOMAIN-SUFFIX,missav.com
   -  DOMAIN-SUFFIX,mypikpak.com
   -  DOMAIN-SUFFIX,missav.recombee.com
@@ -85,19 +91,25 @@ payload:
   -  DOMAIN-SUFFIX,telemetrydeck.com  
   -  DOMAIN-SUFFIX,twimg.com  
   -  DOMAIN-SUFFIX,twitter.com  
+  -  DOMAIN-SUFFIX,tampermonkey.net
   -  DOMAIN-SUFFIX,theporndude.com
   -  DOMAIN-SUFFIX,v2ex.com  
+  -  DOMAIN-SUFFIX,whatsapp.net
+  -  DOMAIN-SUFFIX,whatsapp.com
   -  DOMAIN-SUFFIX,withgoogle.com
   -  DOMAIN-SUFFIX,x.com
   -  DOMAIN-SUFFIX,xvideos.com
   -  DOMAIN-SUFFIX,xvideos-cdn.com
   -  DOMAIN-SUFFIX,xhamster.com
+  -  DOMAIN-SUFFIX,yandex.ru
   -  DOMAIN-SUFFIX,ytimg.com
+  -  DOMAIN-SUFFIX,yahoo.com
   -  DOMAIN-SUFFIX,youtube.com 
   -  DOMAIN-SUFFIX,youjizz.com 
-  -  IP-CIDR,95.161.76.101/32,no-resolve
-  -  IP-CIDR,149.154.165.111/32,no-resolve
-  -  IP-CIDR,91.108.56.0/24,no-resolve
-  -  IP-CIDR,149.154.167.0/24,no-resolve
-  -  IP-CIDR,149.154.171.0/24,no-resolve
-  -  IP-CIDR,149.154.175.0/24,no-resolve
+  -  IP-CIDR,95.161.76.101/32
+  -  IP-CIDR,149.154.165.111/32
+  -  IP-CIDR,149.154.166.111/32
+  -  IP-CIDR,91.108.56.0/24
+  -  IP-CIDR,149.154.167.0/24
+  -  IP-CIDR,149.154.171.0/24
+  -  IP-CIDR,149.154.175.0/24
