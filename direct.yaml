@@ -168,4 +168,6 @@ payload:
   -  DOMAIN-SUFFIX,zhihu.com 
   -  DOMAIN-SUFFIX,zhimg.com
   -  DOMAIN-SUFFIX,zijieapi.com
-  -  IP-CIDR,120.77.201.47/32
+  -  IP-CIDR,198.11.188.0/25,no-resolve
+  -  IP-CIDR,198.11.136.0/24,no-resolve
+  -  IP-CIDR,120.77.201.47/32,no-resolve
