@@ -23,8 +23,7 @@ payload:
   -  DOMAIN-SUFFIX,aliyundrive.net  
   -  DOMAIN-SUFFIX,amap.com  
   -  DOMAIN-SUFFIX,amemv.com  
-  -  DOMAIN-SUFFIX,anythinktech.com
-  -  DOMAIN-SUFFIX,app-analytics-services.com  
+  -  DOMAIN-SUFFIX,anythinktech.com  
   -  DOMAIN-SUFFIX,autonavi.com  
   -  DOMAIN-SUFFIX,baidu.com  
   -  DOMAIN-SUFFIX,bdimg.com
@@ -37,6 +36,7 @@ payload:
   -  DOMAIN-SUFFIX,biliapi.net  
   -  DOMAIN-SUFFIX,bilibili.com  
   -  DOMAIN-SUFFIX,bilivideo.com  
+  -  DOMAIN-SUFFIX,biligame.com
   -  DOMAIN-SUFFIX,bytegecko.com  
   -  DOMAIN-SUFFIX,bytedance.com  
   -  DOMAIN-SUFFIX,bytednsdoc.com  
@@ -53,6 +53,8 @@ payload:
   -  DOMAIN-SUFFIX,ctobsnssdk.com  
   -  DOMAIN-SUFFIX,cmbimg.com
   -  DOMAIN-SUFFIX,cmbchina.com  
+  -  DOMAIN-SUFFIX,dgjapp.com
+  -  DOMAIN-SUFFIX,deepseek.com
   -  DOMAIN-SUFFIX,dianping.com  
   -  DOMAIN-SUFFIX,dingtalk.com 
   -  DOMAIN-SUFFIX,douyu.com 
@@ -68,7 +70,9 @@ payload:
   -  DOMAIN-SUFFIX,ecombdapi.com  
   -  DOMAIN-SUFFIX,ecombdimg.com  
   -  DOMAIN-SUFFIX,ecombdpage.com  
+  -  DOMAIN-SUFFIX,fpinit.itunes.apple.com
   -  DOMAIN-SUFFIX,feng.com
+  -  DOMAIN-SUFFIX,getui.com
   -  DOMAIN-SUFFIX,gtimg.com
   -  DOMAIN-SUFFIX,gepush.com
   -  DOMAIN-SUFFIX,goofish.com  
@@ -85,10 +89,11 @@ payload:
   -  DOMAIN-SUFFIX,jdpay.com  
   -  DOMAIN-SUFFIX,jpush.io
   -  DOMAIN-SUFFIX,ke.com  
-  -  DOMAIN-SUFFIX,ks-live.com 
+  -  DOMAIN-SUFFIX,ks-live.com  
   -  DOMAIN-SUFFIX,ls.apple.com
   -  DOMAIN-SUFFIX,ljcdn.com  
   -  DOMAIN-SUFFIX,lianjia.com  
+  -  DOMAIN-SUFFIX,miguvideo.com
   -  DOMAIN-SUFFIX,meituan.com  
   -  DOMAIN-SUFFIX,meituan.net  
   -  DOMAIN-SUFFIX,mentamob.com  
@@ -130,7 +135,6 @@ payload:
   -  DOMAIN-SUFFIX,snssdk.com  
   -  DOMAIN-SUFFIX,sobot.com  
   -  DOMAIN-SUFFIX,sspai.com
-  -  DOMAIN-SUFFIX,shazam.com
   -  DOMAIN-SUFFIX,zstatic.net
   -  DOMAIN-SUFFIX,taobao.com  
   -  DOMAIN-SUFFIX,tanx.com  
@@ -148,7 +152,7 @@ payload:
   -  DOMAIN-SUFFIX,ucweb.com  
   -  DOMAIN-SUFFIX,volccdn.com  
   -  DOMAIN-SUFFIX,volceapplog.com  
-  -  DOMAIN-SUFFIX,volces.com  
+  -  DOMAIN-SUFFIX,volces.com 
   -  DOMAIN-SUFFIX,weibo.com  
   -  DOMAIN-SUFFIX,weibocdn.com  
   -  DOMAIN-SUFFIX,weixinbridge.com
