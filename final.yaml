@@ -111,10 +111,10 @@ payload:
   -  DOMAIN-SUFFIX,yahoo.com
   -  DOMAIN-SUFFIX,youtube.com 
   -  DOMAIN-SUFFIX,youjizz.com 
-  -  IP-CIDR,95.161.76.101/32,no-resolve
-  -  IP-CIDR,149.154.165.111/32,no-resolve
-  -  IP-CIDR,149.154.166.111/32,no-resolve
-  -  IP-CIDR,91.108.56.0/24,no-resolve
+  -  IP-CIDR,91.108.56.0/24,no-resolve 
+  -  IP-CIDR,95.161.76.0/24,no-resolve
+  -  IP-CIDR,149.154.165.0/24,no-resolve
+  -  IP-CIDR,149.154.166.0/24,no-resolve
   -  IP-CIDR,149.154.167.0/24,no-resolve
   -  IP-CIDR,149.154.171.0/24,no-resolve
   -  IP-CIDR,149.154.175.0/24,no-resolve
