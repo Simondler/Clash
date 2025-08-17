@@ -1,5 +1,5 @@
 payload:
-  -  DOMAIN-SUFFIX,CN
+  -  DOMAIN-SUFFIX,cn
   -  DOMAIN-SUFFIX,10010.com
   -  DOMAIN-SUFFIX,126.net  
   -  DOMAIN-SUFFIX,163.com  
@@ -54,6 +54,7 @@ payload:
   -  DOMAIN-SUFFIX,ctobsnssdk.com  
   -  DOMAIN-SUFFIX,cmbimg.com
   -  DOMAIN-SUFFIX,cmbchina.com  
+  -  DOMAIN-SUFFIX,doubao.com
   -  DOMAIN-SUFFIX,dgjapp.com
   -  DOMAIN-SUFFIX,deepseek.com
   -  DOMAIN-SUFFIX,dianping.com  
@@ -74,10 +75,12 @@ payload:
   -  DOMAIN-SUFFIX,fpinit.itunes.apple.com
   -  DOMAIN-SUFFIX,feng.com
   -  DOMAIN-SUFFIX,getui.com
+  -  DOMAIN-SUFFIX,getui.net
   -  DOMAIN-SUFFIX,gtimg.com
   -  DOMAIN-SUFFIX,gepush.com
   -  DOMAIN-SUFFIX,goofish.com  
   -  DOMAIN-SUFFIX,gdtimg.com
+  -  DOMAIN-SUFFIX,hhax.org
   -  DOMAIN-SUFFIX,hdslb.com  
   -  DOMAIN-SUFFIX,hpplay.com  
   -  DOMAIN-SUFFIX,huya.com  
@@ -94,13 +97,15 @@ payload:
   -  DOMAIN-SUFFIX,ls.apple.com
   -  DOMAIN-SUFFIX,ljcdn.com  
   -  DOMAIN-SUFFIX,lianjia.com  
+  -  DOMAIN,macv6.ilmz.me
   -  DOMAIN-SUFFIX,miguvideo.com
   -  DOMAIN-SUFFIX,meituan.com  
   -  DOMAIN-SUFFIX,meituan.net  
   -  DOMAIN-SUFFIX,mentamob.com  
   -  DOMAIN-SUFFIX,miot-spec.org  
   -  DOMAIN-SUFFIX,mi-img.com  
-  -  DOMAIN-SUFFIX,mi.com  
+  -  DOMAIN-SUFFIX,mi.com 
+  -  DOMAIN-SUFFIX,miwifi.com 
   -  DOMAIN-SUFFIX,mijia.tech  
   -  DOMAIN-SUFFIX,miui.com  
   -  DOMAIN-SUFFIX,miaozhen.com
@@ -133,6 +138,7 @@ payload:
   -  DOMAIN,rust.ilmz.net
   -  DOMAIN-SUFFIX,realsee.com
   -  DOMAIN-SUFFIX,routerlogin.net
+  -  DOMAIN-SUFFIX,servicewechat.com
   -  DOMAIN-SUFFIX,snssdk.com  
   -  DOMAIN-SUFFIX,sobot.com  
   -  DOMAIN-SUFFIX,sspai.com
@@ -175,4 +181,4 @@ payload:
   -  DOMAIN-SUFFIX,zijieapi.com
   -  IP-CIDR,198.11.188.0/25,no-resolve
   -  IP-CIDR,198.11.136.0/24,no-resolve
-  -  IP-CIDR,120.77.201.47/32,no-resolve
+  -  IP-CIDR,47.94.242.128/32,no-resolve
